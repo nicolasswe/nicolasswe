@@ -1,4 +1,4 @@
-# Olá! Eu sou o Nícolas Almeida Mendes 👋
+# Olá! Eu sou o Nícolas Almeida Mendes
 
 Estudante de **Engenharia de Software** na Unifran (Universidade de Franca), entusiasta do aprendizado contínuo e da exploração de diferentes áreas da tecnologia.
 
