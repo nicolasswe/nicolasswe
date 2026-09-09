@@ -6,9 +6,9 @@ Estudante de **Engenharia de Software** na Unifran (Universidade de Franca), ent
 
 ### 🚀 Sobre Mim
 - 🎓 **Educação:** Cursando Bacharelado em Engenharia de Software (Previsão de conclusão: 12/2029).
-- 🧩 **Foco Atual:** Gostando de aprender um pouco de tudo na tecnologia — da lógica e programação web ao design e metodologias — enquanto descubro as áreas que mais me encantam na Engenharia de Software.
+- 🧩 **Foco Atual:** Estou em busca da área que pretendo atuar, mas sempre vou saber um pouco de tudo — da lógica e programação web ao design e metodologias — enquanto descubro as áreas que mais me encantam na Engenharia de Software.
 - 🎨 **Interfaces & Mídias:** Conhecimento e prática em design de interfaces, UI/UX e criação/edição visual.
-- 🤖 **Tecnologia & IA:** Entusiasta de Inteligência Artificial e engenharia de prompts como apoio aos estudos e resolução de problemas.
+- 🤖 **Tecnologia & IA:** Estudando e aprendendo sobre Inteligência Artificial e engenharia de prompts como apoio aos estudos e resolução de problemas.
 - 🌐 **Idiomas:** Inglês intermediário (foco em leitura técnica e contínuo aprendizado em conversação).
 
 ---
