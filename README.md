@@ -8,7 +8,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 **Formação:** Cursando Bacharelado em Engenharia de Software *(Previsão de conclusão: 12/2029)*.
-- 🎯 **Foco Atual:** Dedico-me ao estudo das bases teóricas e práticas da computação. Estou em um processo ativo de exploração de áreas da Engenharia de Software — como desenvolvimento web, IA e design de interfaces — com o objetivo de identificar o segmento no qual pretendo direcionar minha carreira profissional.
+- 🎯 **Foco Atual:** Dedico-me ao estudo das bases teóricas e práticas da computação. Estou em um processo ativo de exploração de áreas da Engenharia de Software — como desenvolvimento web, IA, design de interfaces, entre diversas outras — com o objetivo de identificar o segmento no qual pretendo direcionar minha carreira profissional.
 - 🎨 **UI/UX & Design:** Prática e interesse em criação e edição de mídias, focado em princípios de experiência do usuário e interfaces funcionais.
 - 🤖 **Inteligência Artificial:** Aprofundando estudos em IA generativa e Engenharia de Prompts aplicadas à otimização de processos e resolução de problemas.
 - 🌐 **Idiomas:** Inglês intermediário *(leitura técnica fluente e desenvolvimento contínuo em conversação)*.
@@ -32,6 +32,6 @@
 
 ### 📫 Conecte-se Comigo
 
-- 💼 **LinkedIn:** [Nícolas Almeida Mendes](https://www.linkedin.com/in/SEU-USUARIO/) *(Lembre-se de substituir "SEU-USUARIO" pelo seu link correto)*
+- 💼 **LinkedIn:** [Nícolas Almeida Mendes](www.linkedin.com/in/nícolas-almeida-mendes-b7698734a) 
 - 📧 **E-mail:** [nicolasalmeidamendes2@gmail.com](mailto:nicolasalmeidamendes2@gmail.com)
 - 📍 **Localização:** Franca - SP, Brasil
